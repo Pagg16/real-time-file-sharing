@@ -1,0 +1,21 @@
+{
+  "name": "real-time-file-sharing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pagg16/real-time-file-sharing.git"
+  },
+  "keywords": [],
+  "author": "Pavel Cool",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pagg16/real-time-file-sharing/issues"
+  },
+  "homepage": "https://github.com/Pagg16/real-time-file-sharing#readme",
+  "dependencies": {}
+}

@@ -1,0 +1,23 @@
+{
+  "name": "real-time-file-sharing-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pagg16/real-time-file-sharing.git"
+  },
+  "keywords": [],
+  "author": "Pavel Cool",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pagg16/real-time-file-sharing/issues"
+  },
+  "homepage": "https://github.com/Pagg16/real-time-file-sharing#readme",
+  "dependencies": {
+    "express-socket.io": "^1.0.3"
+  }
+}
